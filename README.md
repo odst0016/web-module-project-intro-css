@@ -1,3 +1,7 @@
+# Netflify Link
+
+https://odstintrocss.netlify.app/
+
 # Intro CSS Module Project
 
 ## User Interface and Git
