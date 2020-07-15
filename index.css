@@ -170,3 +170,18 @@ footer {
 .getInvolved {
     background-color: #FFCD69;
 }
+
+.planYourVisit:hover {
+    background-color: #FF764E;
+    transform: scale(1.5);
+}
+
+.learnAboutThePark:hover {
+    background-color: #5ED3EB;
+    transform: scale(1.5);
+}
+
+.getInvolved:hover {
+    background-color: #FFCD69;
+    transform: scale(1.5);
+}
